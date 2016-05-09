@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PictureClipDemo</string>
+    <string name="choice_pic_resource">选择图片来源</string>
+</resources>

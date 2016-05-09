@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="entries_list_preference">
+        <item>Pedometer</item>
+        <item>Yahoo</item>
+        <item>Facebook</item>
+    </string-array>
+
+    <!-- Used in app/menu examples -->
+    <string-array name="entryvalues_list_preference">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+    <string-array name="choice_pic_selector">
+        <item>拍照</item>
+        <item>相册</item>
+    </string-array>
+
+
+</resources>
