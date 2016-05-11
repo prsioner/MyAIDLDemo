@@ -264,6 +264,6 @@ iMyService.savePersonInfo(person);
 
 保存这个对象（这里实现了MainActivity 把数据传递到RemoteService 去save），点击SHOW DATA ,可以(让RemoteService 读取数据并传递到MainActivity 中显示，从而模拟了Activity与service 的双向通信)。
 
-直接上源码吧，点击下载！
+
 
 尊重原创参考：http://android.blog.51cto.com/268543/537684/
